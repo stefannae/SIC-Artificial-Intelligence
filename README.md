@@ -1,9 +1,20 @@
 # SIC Artificial Intelligence
 Artificial Intelligence course from the Samsung Innovation Campus
 
+## Contents
+
+* [Coding Exercises](#coding-exercises)
+  * [Chapter 2. Python Programming](#chapter-2-python-programming)
+  * [Chapter 3. Python Libraries](#chapter-3-python-libraries)
+  * [Chapter 4. Probability and Statistics](#chapter-4-probability-and-statistics)
+* [Quizzes](#quizzes)
+  * [Chapter 2](#chapter-2)
+  * [Chapter 3](#chapter-3)
+  * [Chapter 4](#chapter-4)
+
 ## Coding Exercises
 
-### Chapter 2
+### Chapter 2. Python Programming
 * [ex_0101.ipynb](https://github.com/stefannae/SIC-Artificial-Intelligence/blob/main/SIC_AI_Coding_Exercises/SIC_AI_Chapter_02_Coding_Exercises/ex_0101.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stefannae/SIC-Artificial-Intelligence/blob/main/SIC_AI_Coding_Exercises/SIC_AI_Chapter_02_Coding_Exercises/ex_0101.ipynb)
 * [ex_0102.ipynb](https://github.com/stefannae/SIC-Artificial-Intelligence/blob/main/SIC_AI_Coding_Exercises/SIC_AI_Chapter_02_Coding_Exercises/ex_0102.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stefannae/SIC-Artificial-Intelligence/blob/main/SIC_AI_Coding_Exercises/SIC_AI_Chapter_02_Coding_Exercises/ex_0102.ipynb)
 * [ex_0103.ipynb](https://github.com/stefannae/SIC-Artificial-Intelligence/blob/main/SIC_AI_Coding_Exercises/SIC_AI_Chapter_02_Coding_Exercises/ex_0103.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stefannae/SIC-Artificial-Intelligence/blob/main/SIC_AI_Coding_Exercises/SIC_AI_Chapter_02_Coding_Exercises/ex_0103.ipynb)
@@ -19,7 +30,7 @@ Artificial Intelligence course from the Samsung Innovation Campus
 * [ex_0113.ipynb](https://github.com/stefannae/SIC-Artificial-Intelligence/blob/main/SIC_AI_Coding_Exercises/SIC_AI_Chapter_02_Coding_Exercises/ex_0113.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stefannae/SIC-Artificial-Intelligence/blob/main/SIC_AI_Coding_Exercises/SIC_AI_Chapter_02_Coding_Exercises/ex_0113.ipynb)
 * [ex_0114.ipynb](https://github.com/stefannae/SIC-Artificial-Intelligence/blob/main/SIC_AI_Coding_Exercises/SIC_AI_Chapter_02_Coding_Exercises/ex_0114.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stefannae/SIC-Artificial-Intelligence/blob/main/SIC_AI_Coding_Exercises/SIC_AI_Chapter_02_Coding_Exercises/ex_0114.ipynb)
 
-### Chapter 3
+### Chapter 3. Python Libraries
 * [ex_0201.ipynb](https://github.com/stefannae/SIC-Artificial-Intelligence/blob/main/SIC_AI_Coding_Exercises/SIC_AI_Chapter_03_Coding_Exercises/ex_0201.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stefannae/SIC-Artificial-Intelligence/blob/main/SIC_AI_Coding_Exercises/SIC_AI_Chapter_03_Coding_Exercises/ex_0201.ipynb)
 * [ex_0202.ipynb](https://github.com/stefannae/SIC-Artificial-Intelligence/blob/main/SIC_AI_Coding_Exercises/SIC_AI_Chapter_03_Coding_Exercises/ex_0202.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stefannae/SIC-Artificial-Intelligence/blob/main/SIC_AI_Coding_Exercises/SIC_AI_Chapter_03_Coding_Exercises/ex_0202.ipynb)
 * [ex_0203.ipynb](https://github.com/stefannae/SIC-Artificial-Intelligence/blob/main/SIC_AI_Coding_Exercises/SIC_AI_Chapter_03_Coding_Exercises/ex_0203.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stefannae/SIC-Artificial-Intelligence/blob/main/SIC_AI_Coding_Exercises/SIC_AI_Chapter_03_Coding_Exercises/ex_0203.ipynb)
@@ -35,7 +46,7 @@ Artificial Intelligence course from the Samsung Innovation Campus
 * [ex_0213.ipynb](https://github.com/stefannae/SIC-Artificial-Intelligence/blob/main/SIC_AI_Coding_Exercises/SIC_AI_Chapter_03_Coding_Exercises/ex_0213.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stefannae/SIC-Artificial-Intelligence/blob/main/SIC_AI_Coding_Exercises/SIC_AI_Chapter_03_Coding_Exercises/ex_0213.ipynb)
 * [ex_0214.ipynb](https://github.com/stefannae/SIC-Artificial-Intelligence/blob/main/SIC_AI_Coding_Exercises/SIC_AI_Chapter_03_Coding_Exercises/ex_0214.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stefannae/SIC-Artificial-Intelligence/blob/main/SIC_AI_Coding_Exercises/SIC_AI_Chapter_03_Coding_Exercises/ex_0214.ipynb)
 
-### Chapter 4
+### Chapter 4. Probability and Statistics
 * [ex_0301.ipynb](https://github.com/stefannae/SIC-Artificial-Intelligence/blob/main/SIC_AI_Coding_Exercises/SIC_AI_Chapter_04_Coding_Exercises/ex_0301.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stefannae/SIC-Artificial-Intelligence/blob/main/SIC_AI_Coding_Exercises/SIC_AI_Chapter_04_Coding_Exercises/ex_0301.ipynb)
 * [ex_0302.ipynb](https://github.com/stefannae/SIC-Artificial-Intelligence/blob/main/SIC_AI_Coding_Exercises/SIC_AI_Chapter_04_Coding_Exercises/ex_0302.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stefannae/SIC-Artificial-Intelligence/blob/main/SIC_AI_Coding_Exercises/SIC_AI_Chapter_04_Coding_Exercises/ex_0302.ipynb)
 * [ex_0303.ipynb](https://github.com/stefannae/SIC-Artificial-Intelligence/blob/main/SIC_AI_Coding_Exercises/SIC_AI_Chapter_04_Coding_Exercises/ex_0303.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stefannae/SIC-Artificial-Intelligence/blob/main/SIC_AI_Coding_Exercises/SIC_AI_Chapter_04_Coding_Exercises/ex_0303.ipynb)
